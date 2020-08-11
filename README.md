@@ -1,4 +1,4 @@
-[![GDG Cloud Abidjan Logo](/images/GDG_Cloud_Abidjan-Logo.png)](https://gdg.community.dev/gdg-cloud-abidjan/)
+[![GDG Cloud Abidjan Logo](https://github.com/gdgcloudabidjan/gdgcloudabidjan/blob/master/images/GDG_Cloud_Abidjan-Logo.png)](https://gdg.community.dev/gdg-cloud-abidjan/)
 
 # **À propos de nous**
 
