@@ -11,5 +11,5 @@ Twitter | <https://twitter.com/GDGCloudAbidjan>
 Youtube | <https://www.youtube.com/channel/UCpmqByXMoIqEhUhl6EGn__g>
 
 
-[![GDG Cloud Abidjan](https://github-readme-stats.vercel.app/api?username=gdgcloudabidjan&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![GDG Cloud Abidjan](https://github-readme-stats.vercel.app/api?username=gdgcloudabidjan)](https://github.com/anuraghazra/github-readme-stats)
 
